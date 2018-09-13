@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.safeon.pushlib.MyJobIntentService;
+
 public class MainActivity extends AppCompatActivity {
     Context mContext;
 
